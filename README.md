@@ -2,18 +2,6 @@
 
 A modern desktop application that uses **Local LLMs (Large Language Models)** to automatically refactor and standardize legacy C/C++ code. It turns "Spaghetti Code" into readable "Clean Code" without changing the underlying logic—**100% locally and offline** for maximum source code security.
 
----
-
-## 📸 Screenshots
-
-<p align="center">
-<img src="img/screen_main.png" width="30%" alt="Main Interface" />
-<img src="img/screen_processing.png" width="30%" alt="AI Processing" />
-<img src="img/screen_result.png" width="30%" alt="Result" />
-</p>
-
----
-
 ## ✨ Features
 
 * **🛡️ Logic Preservation:** The AI is strictly instructed to format code and rename variables *without* altering the program's logic or functionality.
